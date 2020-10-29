@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pwa-app/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/pwa-app/static/js/main.42f20014.chunk.js",
+    "main.js.map": "/pwa-app/static/js/main.42f20014.chunk.js.map",
+    "runtime-main.js": "/pwa-app/static/js/runtime-main.c179ab54.js",
+    "runtime-main.js.map": "/pwa-app/static/js/runtime-main.c179ab54.js.map",
+    "static/js/2.df685bfc.chunk.js": "/pwa-app/static/js/2.df685bfc.chunk.js",
+    "static/js/2.df685bfc.chunk.js.map": "/pwa-app/static/js/2.df685bfc.chunk.js.map",
+    "static/js/3.f830c1f5.chunk.js": "/pwa-app/static/js/3.f830c1f5.chunk.js",
+    "static/js/3.f830c1f5.chunk.js.map": "/pwa-app/static/js/3.f830c1f5.chunk.js.map",
+    "index.html": "/pwa-app/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/pwa-app/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.df685bfc.chunk.js.LICENSE.txt": "/pwa-app/static/js/2.df685bfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c179ab54.js",
+    "static/js/2.df685bfc.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.42f20014.chunk.js"
+  ]
+}
